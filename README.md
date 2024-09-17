@@ -49,4 +49,6 @@ This code is purely for fun. It serves as an example of what not to do. If you c
 
 This code is a mess. Enjoy it ironically. 🍿
 
+Would love to see the communities ability to make it even worse!
+
 Happy coding! 🎉 (But not like this. Never like this.)

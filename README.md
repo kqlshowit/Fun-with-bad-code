@@ -2,6 +2,8 @@
 
 let's celebrate bad practice, poor decision, and anti-pattern! If you're looking for a guide on **how not to write code**, you've found it. 🥳
 
+Just make sure the code actually runs!
+
 ## Code Overview
 
 This masterpiece begins with some seemingly random variable declarations and continues with an epic journey through layers of nested functions, pointless loops, and a sprinkle of `this` misuse for flavor.
